@@ -1,0 +1,17 @@
+{
+  "name": "selfateuse",
+  "version": "1.0.0",
+  "description": "selfbot dev par Toto'#1444 for rtvtool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Toto'#1444",
+  "license": "ISC",
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "discord.js-selfbot": "^12.0.2",
+    "domain-ping": "^0.2.1",
+    "superagent": "^7.1.6"
+  }
+}
